@@ -13,4 +13,4 @@ Links to related social media:
 - The original home of the Z80 Retro project repos have been under the [John Winans](https://github.com/johnwinans) github account.
 - The [Z80 Retro! YouTube playlist](https://www.youtube.com/playlist?list=PL3by7evD3F51Cf9QnsAEdgSQ4cz7HQZX5)
 - The [John's Basement](http://youtube.com/@JohnsBasement) YouTube channel that hosts the Z80 Retro! playlist.
-- The [Z80 Retro! Discord](https://discord.com/channels/1010951092277874791) and a [permanant invitation link](https://discord.gg/jf73DRZvh5)
+- The [Z80 Retro! Discord permanant invitation link](https://discord.gg/jf73DRZvh5)
