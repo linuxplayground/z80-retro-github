@@ -14,3 +14,6 @@ Links to related social media:
 - The [Z80 Retro! YouTube playlist](https://www.youtube.com/playlist?list=PL3by7evD3F51Cf9QnsAEdgSQ4cz7HQZX5)
 - The [John's Basement](http://youtube.com/@JohnsBasement) YouTube channel that hosts the Z80 Retro! playlist.
 - The [Z80 Retro! Discord permanant invitation link](https://discord.gg/jf73DRZvh5)
+
+Manuals for the chips, CP/M, et cetera:
+- https://github.com/Z80-Retro/manuals
