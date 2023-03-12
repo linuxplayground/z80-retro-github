@@ -11,6 +11,7 @@ The Z80 Retro! project is presented on the John's Basement channel on YouTube.  
 
 ## Software Project Repos:
 - [2063-Z80-cpm](https://github.com/Z80-Retro/2063-Z80-cpm) - The boot ROM, BIOS, and filesystem suitable for basic operation of the Z80 CPU board.
+- [example-filesystem](https://github.com/Z80-Retro/example-filesystem) - An example filesystem suitable for developing example/test applications.
 
 ## Links to related social media:
 - The [Z80 Retro! YouTube playlist](https://www.youtube.com/playlist?list=PL3by7evD3F51Cf9QnsAEdgSQ4cz7HQZX5)
