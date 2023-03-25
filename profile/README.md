@@ -2,7 +2,11 @@
 
 The purpose of this organization is to provide an easy way to locate the repositories of hardware and software projects for the Z80 Retro!
 
-The Z80 Retro! project is presented on the John's Basement channel on YouTube.  A Z80 Retro! playlist contains much detail about all aspects of this project including the circuit boards, CP/M, the BIOS, and a video display board that uses a popular Video Display Processor called the TMS9118.
+The Z80 Retro! project is presented on the John's Basement channel on YouTube.  A [Z80 Retro! playlist](https://www.youtube.com/playlist?list=PL3by7evD3F51Cf9QnsAEdgSQ4cz7HQZX5) contains much detail about all aspects of this project including the circuit boards, CP/M, the BIOS, and a video display board that uses a popular Video Display Processor called the TMS9118.
+
+As of 20220304, in order to locate the exact same versions of the source code as seen in the playlist you can check out (or download) the specific version of the code using the date-code seen at the start of each video (that look like this: YYYYMMDD.n) 
+
+For each repo in the Z80-Retro github organization, you will find a *git tag* with the same date-code in it that matches the given videos that are focused on that repo.  (Click on the tags link in any given repo to see them all.)
 
 ## Hardware Project Repos:
 - [2063-Z80](https://github.com/Z80-Retro/2063-Z80) - The Z80 CPU board
