@@ -8,6 +8,11 @@ As of 20220304, in order to locate the exact same versions of the source code as
 
 For each repo in the Z80-Retro github organization, you will find a *git tag* with the same date-code in it that matches the given videos that are focused on that repo.  (Click on the tags link in any given repo to see them all.)
 
+## Documentation and Manuals:
+- [Z80-Retro-Manual](https://github.com/Z80-Retro/Z80-Retro-Manual) - The official Z80-Retro! manual
+- [3rd Party Manuals](https://github.com/Z80-Retro/manuals) - Manuals for CP/M, books, chips, and other stuff
+
+
 ## Hardware Project Repos:
 - [2063-Z80](https://github.com/Z80-Retro/2063-Z80) - The Z80 CPU board
 - [2065-Z80-programmer](https://github.com/Z80-Retro/2065-Z80-programmer) - A Raspberry PI based board that can program the Z80 Retro FLASH in-circuit.
@@ -25,5 +30,3 @@ For each repo in the Z80-Retro github organization, you will find a *git tag* wi
 - The [John's Basement](http://youtube.com/@JohnsBasement) YouTube channel that hosts the Z80 Retro! playlist.
 - The original home of the Z80 Retro project repos have been under the [John Winans](https://github.com/johnwinans) github account.
 
-## Manuals for the chips, CP/M, et cetera:
-- [Z80 Retro! project manuals](https://github.com/Z80-Retro/manuals)
