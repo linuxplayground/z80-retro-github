@@ -19,7 +19,7 @@ For each repo in the Z80-Retro github organization, you will find a *git tag* wi
 - [2068-Z80-TMS9118](https://github.com/Z80-Retro/2068-Z80-TMS9118) - A Video Display Processor board with composite video output.
 
 ## Software Project Repos:
-- [2063-Z80-cpm](https://github.com/Z80-Retro/2063-Z80-cpm) - The boot ROM, BIOS, and filesystem suitable for basic operation of the Z80 CPU board.
+- [2063-Z80-cpm](https://github.com/Z80-Retro/2063-Z80-cpm) - The boot ROM, BIOS, and filesystem suitable for basic operation of the Z80 CPU board. See the [latest releases for binaries in the zip-file asset](https://github.com/Z80-Retro/2063-Z80-cpm/releases).
 - [example-filesystem](https://github.com/Z80-Retro/example-filesystem) - An example filesystem suitable for developing example/test applications.
 - [Games](https://github.com/Z80-Retro/acn-vt100-games) and build script to copy them into a Retro SD card from Anna Christina Naß's repo here: https://git.imzadi.de/acn/vt100-games
 - [Z80-Retro-disk-maker](https://github.com/Z80-Retro/Z80-Retro-disk-maker) - an example Makefile etc. for building a filesystem.  See the Anna Christina Naß's games repo (above) for an example of how to use it.
