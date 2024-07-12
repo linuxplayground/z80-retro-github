@@ -30,6 +30,7 @@ For each repo in the Z80-Retro github organization, you will find a *git tag* wi
 ### Hardware Project Repos:
 - [2063-Z80](https://github.com/Z80-Retro/2063-Z80) - The Z80 CPU board [Latest release](https://github.com/Z80-Retro/2063-Z80/releases/latest)
 - [2065-Z80-programmer](https://github.com/Z80-Retro/2065-Z80-programmer) - A Raspberry PI based board that can program the Z80 Retro FLASH in-circuit. [Latest release](https://github.com/Z80-Retro/2065-Z80-programmer/releases/latest)
+- [3D Printable PCB Standoffs ](https://github.com/Z80-Retro/pcb-standoffs) For the VDP and FLASH programmer boards.
 - [2068-Z80-TMS9118](https://github.com/Z80-Retro/2068-Z80-TMS9118) - A Video Display Processor board with composite video output. [Latest release](https://github.com/Z80-Retro/2068-Z80-TMS9118/releases/latest)
 - [You can order your own bare PCBs directly from JLCPCB or OSHPark](https://youtu.be/AUg_sbPnzn0) by using the XXX-gerbers.zip files in the latest releases. Note that ordering from PCBWay is VERY similar to JLCPCB if you want to shop around.
 
