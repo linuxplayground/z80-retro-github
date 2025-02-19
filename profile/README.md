@@ -40,6 +40,7 @@ For each repo in the Z80-Retro github organization, you will find a *git tag* wi
 - [Games](https://github.com/Z80-Retro/acn-vt100-games) and build script to copy them into a Retro SD card from Anna Christina Naß's repo here: https://git.imzadi.de/acn/vt100-games
 - [Z80-Retro-disk-maker](https://github.com/Z80-Retro/Z80-Retro-disk-maker) - an example Makefile etc. for building a filesystem.  See the Anna Christina Naß's games repo (above) for an example of how to use it.
 - [CPM3_2063_Retro](https://gitlab.com/SolderGirl/CPM3_2063_Retro) - A port of CP/M 3 to the Retro! by SolderGirl
+- [A Retro! Emulator](https://github.com/EtchedPixels/EmulatorKit) - An emulator of many retro-computing systems that includes the 2063-Z80 by [Alan Cox](https://en.wikipedia.org/wiki/Alan_Cox_(computer_programmer))
  
 ## Links to related social media:
 - The [Z80 Retro! YouTube playlist](https://www.youtube.com/playlist?list=PL3by7evD3F51Cf9QnsAEdgSQ4cz7HQZX5)
